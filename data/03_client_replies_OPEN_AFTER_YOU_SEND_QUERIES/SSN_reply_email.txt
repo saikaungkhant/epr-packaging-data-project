@@ -1,0 +1,19 @@
+From: Emma Price, Severnside Snacks
+Subject: RE: n/a weights and negative lines
+
+Hi,
+
+The five negative lines are ERP stock adjustments for a returned delivery. They are not packaging we placed on the market, please exclude them.
+
+The n/a lines:
+  SSN-0007 Crisp bag film 2025-H1 SC: 0.035 t (35.0 kg)
+  SSN-0012 Crisp bag film 2025-H1 SC: 0.095 t (95.0 kg)
+  SSN-0013 Multipack outer bag 2025-H1 NI: 0.020 t (20.0 kg)
+  SSN-0022 Shipping case 2025-H1 EN: 3.665 t (3665.0 kg)
+  SSN-0029 Tray 2025-H2 SC: 0.075 t (75.0 kg)
+  SSN-0033 Foil seal 2025-H2 WS: 0.014 t (14.0 kg)
+  SSN-0049 Bag liner 2025-H2 SC: 0.066 t (66.0 kg)
+  SSN-0050 Carton 2025-H2 NI: 0.351 t (351.0 kg)
+
+Best,
+Emma

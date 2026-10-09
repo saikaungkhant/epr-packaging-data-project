@@ -1,0 +1,24 @@
+From: Lucy Nash, Clifton Coffee Roasters
+Subject: RE: missing packaging specs
+
+Hi,
+
+Apologies, these three launched this year and never made it into the spec sheet:
+  CCR-0038  Drip bag outer box  PC  P1  25.0 g
+  CCR-0038  Foil sachets  PL  P1  8.0 g
+  CCR-0038  Shipping case  PC  P3  12.0 g
+  CCR-0044  Laminated valve bag  PL  P1  9.5 g
+  CCR-0044  Degassing valve  PL  P1  0.4 g
+  CCR-0044  Tin tie  ST  P1  0.6 g
+  CCR-0044  Shipping case  PC  P3  22.0 g
+  CCR-0045  Laminated valve bag  PL  P1  9.5 g
+  CCR-0045  Degassing valve  PL  P1  0.4 g
+  CCR-0045  Tin tie  ST  P1  0.6 g
+  CCR-0045  Shipping case  PC  P3  22.0 g
+
+For CCR-0002 please ignore the 2024 spec, we lightweighted that bag from January 2025.
+
+The big jump from last year is real: we took on a lot of new cafe and wholesale accounts.
+
+Thanks,
+Lucy

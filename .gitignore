@@ -1,0 +1,6 @@
+# Files created by running the scripts in python/
+python/*.csv
+python/*.xlsx
+
+# Excel lock files
+~$*

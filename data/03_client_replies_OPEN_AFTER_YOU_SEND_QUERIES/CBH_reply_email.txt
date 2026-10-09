@@ -1,0 +1,9 @@
+From: Sian Morgan, Cardiff Bay Homewares
+Subject: RE: file format
+
+Hi,
+
+Our system is set up by our European parent, hence the semicolons and commas. Weights are in grams. Quantity uses a dot for thousands.
+
+Diolch,
+Sian

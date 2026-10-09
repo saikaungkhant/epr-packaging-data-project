@@ -1,0 +1,72 @@
+client_id,file,location,issue_type,detail,correct_action
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 936,Missing weight,Weight blank for AVD-0025 Sleeve label 2025-H2 EN,Query client. Reply gives 1193.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 62,Missing weight,Weight blank for AVD-0002 Glass bottle 2025-H1 WS,Query client. Reply gives 300.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 722,Missing weight,Weight blank for AVD-0018 Shrink wrap 2025-H2 NI,Query client. Reply gives 6.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 413,Missing weight,Weight blank for AVD-0009 4-pack carton 2025-H2 EN,Query client. Reply gives 1178.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 1064,Missing weight,Weight blank for AVD-0030 Plastic bag 2025-H2 WS,Query client. Reply gives 4208.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 290,Missing weight,Weight blank for AVD-0007 Glass bottle 2025-H1 EN,Query client. Reply gives 24500.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 69,Missing weight,Weight blank for AVD-0002 Crown cap 2025-H1 NI,Query client. Reply gives 2.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 475,Missing weight,Weight blank for AVD-0011 Can multipack film 2025-H1 WS,Query client. Reply gives 6.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 701,Missing weight,Weight blank for AVD-0018 Sleeve label 2025-H1 WS,Query client. Reply gives 4.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 804,Missing weight,Weight blank for AVD-0021 PET bottle 2025-H2 EN,Query client. Reply gives 3379.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 467,Missing weight,Weight blank for AVD-0011 Can multipack film 2025-H1 EN,Query client. Reply gives 107.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 645,Missing weight,Weight blank for AVD-0016 Shrink tray 2025-H2 EN,Query client. Reply gives 366.0 kg
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 772,Unit error (tonnes entered as kg),AVD-0020 PET bottle shows 4.449 but units x unit weight implies 4449.0 kg,Multiply by 1000 after confirming with client
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 1036,Unit error (tonnes entered as kg),AVD-0029 One-trip wooden pallet shows 2.865 but units x unit weight implies 2865.0 kg,Multiply by 1000 after confirming with client
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 99,Unit error (tonnes entered as kg),AVD-0003 4-pack carton shows 2.52 but units x unit weight implies 2520.0 kg,Multiply by 1000 after confirming with client
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,row 386,Unit error (tonnes entered as kg),AVD-0009 Glass bottle shows 18.883 but units x unit weight implies 18883.0 kg,Multiply by 1000 after confirming with client
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,"rows [754, 755]",Duplicate row,Exact duplicate of AVD-0019 Shrink wrap 2025-H2,Remove the duplicate
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,"rows [826, 827]",Duplicate row,Exact duplicate of AVD-0022 Sleeve label 2025-H1,Remove the duplicate
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,"rows [851, 852]",Duplicate row,Exact duplicate of AVD-0022 Sleeve label 2025-H2,Remove the duplicate
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,"rows [634, 635]",Duplicate row,Exact duplicate of AVD-0016 Aluminium can 2025-H1,Remove the duplicate
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,"rows [116, 117]",Duplicate row,Exact duplicate of AVD-0003 Paper label 2025-H1,Remove the duplicate
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,"rows [249, 250]",Duplicate row,Exact duplicate of AVD-0006 Paper label 2025-H1,Remove the duplicate
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,Material column,Trailing spaces,About 3% of material values have trailing spaces,TRIM
+AVD,AVD_AvonValleyDrinks_2025_packaging.xlsx,"Period, Nation, Material, Class, Type columns",Inconsistent labels,"Mix of codes and full names, several period spellings",Map to target codes
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0007 Crisp bag film 2025-H1 SC,Missing weight,Weight shows n/a,Query client. Reply gives 0.035 t (35.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0012 Crisp bag film 2025-H1 SC,Missing weight,Weight shows n/a,Query client. Reply gives 0.095 t (95.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0013 Multipack outer bag 2025-H1 NI,Missing weight,Weight shows n/a,Query client. Reply gives 0.020 t (20.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0022 Shipping case 2025-H1 EN,Missing weight,Weight shows n/a,Query client. Reply gives 3.665 t (3665.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0029 Tray 2025-H2 SC,Missing weight,Weight shows n/a,Query client. Reply gives 0.075 t (75.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0033 Foil seal 2025-H2 WS,Missing weight,Weight shows n/a,Query client. Reply gives 0.014 t (14.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0049 Bag liner 2025-H2 SC,Missing weight,Weight shows n/a,Query client. Reply gives 0.066 t (66.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0050 Carton 2025-H2 NI,Missing weight,Weight shows n/a,Query client. Reply gives 0.351 t (351.0 kg)
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0040 Steel tin,Negative weight,Negative quantity and weight line (system adjustment),"Query client. Reply confirms these were ERP stock adjustments, exclude them"
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0029 Tray,Negative weight,Negative quantity and weight line (system adjustment),"Query client. Reply confirms these were ERP stock adjustments, exclude them"
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0009 Multipack outer bag,Negative weight,Negative quantity and weight line (system adjustment),"Query client. Reply confirms these were ERP stock adjustments, exclude them"
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0056 Carton,Negative weight,Negative quantity and weight line (system adjustment),"Query client. Reply confirms these were ERP stock adjustments, exclude them"
+SSN,SSN_SevernsideSnacks_export_2025.csv,Item SSN-0027 Paper tube,Negative weight,Negative quantity and weight line (system adjustment),"Query client. Reply confirms these were ERP stock adjustments, exclude them"
+SSN,SSN_SevernsideSnacks_export_2025.csv,every 500 rows,Repeated header rows,Export repeats a page break line and header row every 500 rows,Remove non-data rows
+SSN,SSN_SevernsideSnacks_export_2025.csv,"Material Type, Pack Level, Consumer/Business, Country, Half",Free text labels and typos,"e.g. Plastik, corrugated, prim, B2B, N. Ireland",Build a mapping table to target codes
+SSN,SSN_SevernsideSnacks_export_2025.csv,Weight (tonnes),Units and text in numbers,"Weights in tonnes, some with a trailing 't'","Strip text, convert tonnes to kg"
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,England!I17,Missing weight (TBC),BBO-0113 Shipping case H2 weight shows TBC,Query client. Reply gives 98 kg
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,England!I21,Missing weight (TBC),BBO-0114 Shipping case H2 weight shows TBC,Query client. Reply gives 70 kg
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,England!I43,Missing weight (TBC),BBO-0120 Cotton ribbon H2 weight shows TBC,Query client. Reply gives 18 kg
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,England!I50,Missing weight (TBC),BBO-0121 Wooden box H2 weight shows TBC,Query client. Reply gives 1677 kg
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,England!I53,Missing weight (TBC),BBO-0122 Shipping case H2 weight shows TBC,Query client. Reply gives 85 kg
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,all sheets,"Report layout, not a data table","Title rows, merged H1/H2 headers, subtotal and grand total rows, one sheet per nation","Unpivot into one row per SKU, component, period, nation; drop subtotal rows"
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,all sheets,Numbers stored as text,Many numbers typed as text with thousand separators,Convert to numbers
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,all sheets,Missing packaging type,No household/non-household column,Primary sold via retail = HH. Shipment cases to stockists = NH. Confirm with client
+BBO,BBO_BathBotanicals_Packaging_Return_2025.xlsx,Material column,Free text materials,"Glass (jar), Alu tube, PP plastic, HDPE, Bamboo, Cotton",Map: Bamboo and Cotton go to OT (Other)
+CBH,CBH_CardiffBayHomewares_2025.csv,whole file,Encoding,"Saved as Windows-1252, accents in Café, Crème, Crêpe break if opened as UTF-8",Import with the right encoding (Data > From Text/CSV > 1252)
+CBH,CBH_CardiffBayHomewares_2025.csv,whole file,European number format,"Semicolon delimited, decimal comma, dot as thousands separator in Qty (12.500 means 12500)",Import with locale settings or replace separators
+CBH,CBH_CardiffBayHomewares_2025.csv,Weight_g,Grams not kg,Weights are in grams,Divide by 1000
+CBH,CBH_CardiffBayHomewares_2025.csv,last row,Total row inside data,TOTAL row at end,Remove before aggregating
+CBH,CBH_CardiffBayHomewares_2025.csv,"Material, Class, Nation",Client-specific codes,"PAP, PLA, MET-ST, WOO; PRI, SHP, TER; ENG, WAL",Mapping table to target codes
+MDC,MDC_MendipDairy_EPR_summary_2025.xlsx,H2 2025!J6,Typed total does not match,Row total typed as 516.718 but materials sum to 475.218,"Never trust typed totals, recalculate from the detail and ask client which is right. Reply: detail is right"
+MDC,MDC_MendipDairy_EPR_summary_2025.xlsx,"both sheets, row HH Drinks - Primary",Invalid material/type combination,Milk cartons reported as Paper / Card under HH drinks. Paper/card HH drinks is not a valid category (the national report says such data was removed),"Query client. Reply confirms these are fibre composite cartons: reclassify to FC, packaging type HH, class P1"
+MDC,MDC_MendipDairy_EPR_summary_2025.xlsx,whole file,"Summary only, no nation",No nation split in file,Client register says England only: set nation EN
+MDC,MDC_MendipDairy_EPR_summary_2025.xlsx,whole file,Tonnes,Weights in tonnes,Convert to kg
+CCR,CCR_CliftonCoffee_sales_2025.xlsx + CCR_CliftonCoffee_packaging_specs.csv,two files,Data split across files,"Sales units in one file, per-unit packaging weights in another","Join on SKU (VLOOKUP/XLOOKUP/INDEX MATCH or SQL join), weight = units x unit g / 1000"
+CCR,CCR_CliftonCoffee_packaging_specs.csv,"SKUs CCR-0038, CCR-0044, CCR-0045",Missing from spec file,"Sold but no packaging spec, lookups return #N/A",Query client. Reply provides the specs
+CCR,CCR_CliftonCoffee_packaging_specs.csv,SKU CCR-0002,Two spec versions,Old 2024 spec and new 2025 spec both present,Use the 2025 spec (client confirms old one should have been deleted)
+CCR,CCR_CliftonCoffee_sales_2025.xlsx,Channel,Channel drives packaging type,"Retail/Online shop = HH, Wholesale/Trade/Cafe = NH; shipping cases always NH",Map channel to packaging type
+GGS,GGS_GloucesterGarden_ERP_export_2025.json,whole file,JSON format,Nested JSON from US parent system,Load with Power Query (Get Data > From JSON) or Python pandas.json_normalize
+GGS,GGS_GloucesterGarden_ERP_export_2025.json,weight_lbs,Imperial units,Weights in pounds,kg = lbs / 2.20462 (not 2.2)
+GGS,GGS_GloucesterGarden_ERP_export_2025.json,ship_to_region = IRL,Out of scope rows,132 rows shipped to Republic of Ireland,"Exclude: UK EPR covers UK nations only (ENG, SCT, WLS, NIR)"
+GGS,GGS_GloucesterGarden_ERP_export_2025.json,"material_code, pack_level, dates",US codes and formats,"LDPE/PP/HDPE/PET = PL, CORRUGATED/PAPERBOARD/KRAFT = PC, ALUMINUM spelling, MM/DD/YYYY dates",Map to target codes
+SPF,SPF_SwindonPetFoods_H1_2025.xlsx,row 746,Decimal slip (x10),"SPF-0070 Paper sack EN shows 404620.0 kg, true value 40462.0 kg","Should be caught by swings analysis vs 2024 and a units x unit weight check. Query client, reply confirms typo"
+SPF,SPF_SwindonPetFoods_H2_2025_LATE.xlsx,"Nation, Material",Small format issues in late file,"Trailing spaces in Nation, a few full material names",TRIM and map
+SPF,SPF_SwindonPetFoods_H1_2025.xlsx,whole client,Missing period,No H2 2025 data submitted,Chase client. Late H2 file arrives in replies folder
+AVD,EPIC_prior_submissions_2024.csv,glass and aluminium,Genuine swing (not an error),"Glass down about 20%, aluminium up about 35% vs 2024","Ask the client. Reply confirms they moved several beers from glass bottles to cans. Keep the data, note the reason"
+CCR,EPIC_prior_submissions_2024.csv,all materials,Genuine growth,All materials roughly double vs 2024,"Reply confirms wholesale growth and new cafe accounts. Keep, note reason"

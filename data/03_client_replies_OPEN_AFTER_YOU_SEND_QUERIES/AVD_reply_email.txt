@@ -1,0 +1,24 @@
+From: Dan Collins, Avon Valley Drinks
+Subject: RE: Packaging data queries 2025
+
+Hi,
+
+Sorry about the gaps. Here are the missing weights:
+  AVD-0025  Sleeve label  2025-H2  England: 1193.0 kg
+  AVD-0002  Glass bottle  2025-H1  Wales: 300.0 kg
+  AVD-0018  Shrink wrap  2025-H2  Northern Ireland: 6.0 kg
+  AVD-0009  4-pack carton  2025-H2  England: 1178.0 kg
+  AVD-0030  Plastic bag  2025-H2  Wales: 4208.0 kg
+  AVD-0007  Glass bottle  2025-H1  England: 24500.0 kg
+  AVD-0002  Crown cap  2025-H1  Northern Ireland: 2.0 kg
+  AVD-0011  Can multipack film  2025-H1  Wales: 6.0 kg
+  AVD-0018  Sleeve label  2025-H1  Wales: 4.0 kg
+  AVD-0021  PET bottle  2025-H2  England: 3379.0 kg
+  AVD-0011  Can multipack film  2025-H1  England: 107.0 kg
+  AVD-0016  Shrink tray  2025-H2  England: 366.0 kg
+
+The four tiny numbers you spotted were typed in tonnes by mistake, please multiply them by 1000.
+On glass and cans: yes, that is real. We moved several of our beers from glass bottles to 440ml cans during 2025.
+
+Thanks,
+Dan
